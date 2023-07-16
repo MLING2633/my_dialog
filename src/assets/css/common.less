@@ -1,0 +1,20 @@
+:root {
+  ::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.t-of-1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.clearfix:before,
+.clearfix:after {
+  content: ' ';
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
