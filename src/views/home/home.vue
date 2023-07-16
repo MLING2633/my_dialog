@@ -30,7 +30,7 @@ const handleLogin = () => {
 .btn {
   width: 100px;
   height: 50px;
-  border: 1px solid skyblue;
+  border: 1px solid pink;
   cursor: pointer;
 }
 .div {
