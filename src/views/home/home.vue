@@ -10,6 +10,8 @@
     <div class="div"></div>
     <div class="div">111</div>
     <div class="div">222</div>
+    <div class="div">333</div>
+    <div class="div">444</div>
   </div>
 
   <my-dialog ref="myDialogRef" custom-class="mlDialog">
